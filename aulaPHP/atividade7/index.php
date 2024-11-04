@@ -33,6 +33,10 @@
                     echo "Suco<br>";
                     echo "preço: $suco";
                 break;
+
+                default:
+                    echo "Opção invalida, escolha uma das opções acima";
+                break;
             }
         }
     ?>
